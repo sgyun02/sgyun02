@@ -1,6 +1,6 @@
 
-##### 🌍 I enjoy learning, building, and connecting with the world through code.
-##### This is where I share my projects and growth as a developer — one step at a time.
+#### 🌍 I enjoy learning, building, and connecting with the world through code.
+#### This is where I share my projects and growth as a developer — one step at a time.
 ---
 #### 🛠 Tech stacks
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
