@@ -1,4 +1,11 @@
-## Hi there 👋
+
+##### 🌍 I enjoy learning, building, and connecting with the world through code.
+##### This is where I share my projects and growth as a developer — one step at a time.
+---
+#### 🛠 Tech stacks
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 
 <!--
 **sgyun02/sgyun02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
